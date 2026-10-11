@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-  Soy desarrollador de software con una gran pasión por crear sitios web visualmente atractivos y fáciles de usar.
+  Soy desarrollador de software creo sitios web visualmente atractivos y fáciles de usar.
 </p>
 
 - Acualmente estoy estudiando Backend y Frontend
